@@ -1,4 +1,4 @@
-console.log("Hello Git and Github")
+console.log("Hello Git and Github");
 
-console.log("Hello Git and GitHub")
+console.log("Hello Git and GitHub");
 
